@@ -1,0 +1,105 @@
+MatchID,MatchDate,TeamA,TeamB,TeamAID,TeamBID,TeamAGoals,TeamBGoals,Stage,HasPenalties,GoalDifference
+151600,2026-06-11,Mexico,South Africa,43911,43883,2,0,First Stage,False,2
+151608,2026-06-12,Korea Republic,Czechia,43822,43995,2,1,First Stage,False,1
+151614,2026-06-12,Canada,Bosnia and Herzegovina,43899,44037,1,1,First Stage,False,0
+151613,2026-06-13,Qatar,Switzerland,43834,43971,1,1,First Stage,False,0
+151620,2026-06-13,Brazil,Morocco,43924,43872,1,1,First Stage,False,0
+151625,2026-06-13,USA,Paraguay,43921,43928,4,1,First Stage,False,3
+151619,2026-06-14,Haiti,Scotland,43908,43967,0,1,First Stage,False,-1
+151626,2026-06-14,Australia,Türkiye,43976,43972,2,0,First Stage,False,2
+151631,2026-06-14,Germany,Curaçao,43948,1895293,7,1,First Stage,False,6
+151632,2026-06-14,Côte d'Ivoire,Ecuador,43854,43927,1,0,First Stage,False,1
+151638,2026-06-14,Netherlands,Japan,43960,43819,2,2,First Stage,False,0
+151637,2026-06-15,Sweden,Tunisia,43970,43888,5,1,First Stage,False,4
+151643,2026-06-15,Belgium,Egypt,43935,43855,1,1,First Stage,False,0
+151649,2026-06-15,Spain,Cabo Verde,43969,43850,0,0,First Stage,False,0
+151650,2026-06-15,Saudi Arabia,Uruguay,43835,43930,1,1,First Stage,False,0
+151644,2026-06-16,IR Iran,New Zealand,43817,43978,2,2,First Stage,False,0
+151655,2026-06-16,Iraq,Norway,43818,43961,1,4,First Stage,False,-3
+151656,2026-06-16,France,Senegal,43946,43879,3,1,First Stage,False,2
+151661,2026-06-17,Austria,Jordan,43934,43820,3,1,First Stage,False,2
+151662,2026-06-17,Argentina,Algeria,43922,43843,3,0,First Stage,False,3
+151668,2026-06-17,Portugal,Congo DR,43963,20014,1,1,First Stage,False,0
+151673,2026-06-17,England,Croatia,43942,43938,4,2,First Stage,False,2
+151674,2026-06-17,Ghana,Panama,43860,43914,1,0,First Stage,False,1
+151610,2026-06-18,Czechia,South Africa,43995,43883,1,1,First Stage,False,0
+151615,2026-06-18,Canada,Qatar,43899,43834,6,0,First Stage,False,6
+151616,2026-06-18,Switzerland,Bosnia and Herzegovina,43971,44037,4,1,First Stage,False,3
+151667,2026-06-18,Uzbekistan,Colombia,44005,43926,1,3,First Stage,False,-2
+151609,2026-06-19,Mexico,Korea Republic,43911,43822,1,0,First Stage,False,1
+151621,2026-06-19,Scotland,Morocco,43967,43872,0,1,First Stage,False,-1
+151627,2026-06-19,USA,Australia,43921,43976,2,0,First Stage,False,2
+151622,2026-06-20,Brazil,Haiti,43924,43908,3,0,First Stage,False,3
+151628,2026-06-20,Türkiye,Paraguay,43972,43928,0,1,First Stage,False,-1
+151634,2026-06-20,Germany,Côte d'Ivoire,43948,43854,2,1,First Stage,False,1
+151640,2026-06-20,Netherlands,Sweden,43960,43970,5,1,First Stage,False,4
+151633,2026-06-21,Ecuador,Curaçao,43927,1895293,0,0,First Stage,False,0
+151639,2026-06-21,Tunisia,Japan,43888,43819,0,4,First Stage,False,-4
+151646,2026-06-21,Belgium,IR Iran,43935,43817,0,0,First Stage,False,0
+151651,2026-06-21,Spain,Saudi Arabia,43969,43835,4,0,First Stage,False,4
+151652,2026-06-21,Uruguay,Cabo Verde,43930,43850,2,2,First Stage,False,0
+151645,2026-06-22,New Zealand,Egypt,43978,43855,1,3,First Stage,False,-2
+151657,2026-06-22,France,Iraq,43946,43818,3,0,First Stage,False,3
+151664,2026-06-22,Argentina,Austria,43922,43934,2,0,First Stage,False,2
+151658,2026-06-23,Norway,Senegal,43961,43879,3,2,First Stage,False,1
+151663,2026-06-23,Jordan,Algeria,43820,43843,1,2,First Stage,False,-1
+151670,2026-06-23,Portugal,Uzbekistan,43963,44005,5,0,First Stage,False,5
+151675,2026-06-23,Panama,Croatia,43914,43938,0,1,First Stage,False,-1
+151676,2026-06-23,England,Ghana,43942,43860,0,0,First Stage,False,0
+151617,2026-06-24,Switzerland,Canada,43971,43899,2,1,First Stage,False,1
+151618,2026-06-24,Bosnia and Herzegovina,Qatar,44037,43834,3,1,First Stage,False,2
+151623,2026-06-24,Morocco,Haiti,43872,43908,4,2,First Stage,False,2
+151624,2026-06-24,Scotland,Brazil,43967,43924,0,3,First Stage,False,-3
+151669,2026-06-24,Colombia,Congo DR,43926,20014,1,0,First Stage,False,1
+151611,2026-06-25,Czechia,Mexico,43995,43911,0,3,First Stage,False,-3
+151612,2026-06-25,South Africa,Korea Republic,43883,43822,1,0,First Stage,False,1
+151635,2026-06-25,Curaçao,Côte d'Ivoire,1895293,43854,0,2,First Stage,False,-2
+151636,2026-06-25,Ecuador,Germany,43927,43948,2,1,First Stage,False,1
+151641,2026-06-25,Japan,Sweden,43819,43970,1,1,First Stage,False,0
+151642,2026-06-25,Tunisia,Netherlands,43888,43960,1,3,First Stage,False,-2
+151629,2026-06-26,Paraguay,Australia,43928,43976,0,0,First Stage,False,0
+151630,2026-06-26,Türkiye,USA,43972,43921,3,2,First Stage,False,1
+151659,2026-06-26,Senegal,Iraq,43879,43818,5,0,First Stage,False,5
+151660,2026-06-26,Norway,France,43961,43946,1,4,First Stage,False,-3
+151647,2026-06-27,New Zealand,Belgium,43978,43935,1,5,First Stage,False,-4
+151648,2026-06-27,Egypt,IR Iran,43855,43817,1,1,First Stage,False,0
+151653,2026-06-27,Uruguay,Spain,43930,43969,0,1,First Stage,False,-1
+151654,2026-06-27,Cabo Verde,Saudi Arabia,43850,43835,0,0,First Stage,False,0
+151671,2026-06-27,Congo DR,Uzbekistan,20014,44005,3,1,First Stage,False,2
+151672,2026-06-27,Colombia,Portugal,43926,43963,0,0,First Stage,False,0
+151677,2026-06-27,Croatia,Ghana,43938,43860,2,1,First Stage,False,1
+151678,2026-06-27,Panama,England,43914,43942,0,2,First Stage,False,-2
+151665,2026-06-28,Jordan,Argentina,43820,43922,1,3,First Stage,False,-2
+151666,2026-06-28,Algeria,Austria,43843,43934,3,3,First Stage,False,0
+151679,2026-06-28,South Africa,Canada,43883,43899,0,1,Round of 32,False,-1
+151681,2026-06-29,Brazil,Japan,43924,43819,2,1,Round of 32,False,1
+151682,2026-06-29,Germany,Paraguay,43948,43928,1,1,Round of 32,True,0
+151680,2026-06-30,Netherlands,Morocco,43960,43872,1,1,Round of 32,True,0
+151684,2026-06-30,Côte d'Ivoire,Norway,43854,43961,1,2,Round of 32,False,-1
+151685,2026-06-30,France,Sweden,43946,43970,3,0,Round of 32,False,3
+151683,2026-07-01,Mexico,Ecuador,43911,43927,2,0,Round of 32,False,2
+151686,2026-07-01,Belgium,Senegal,43935,43879,3,2,Round of 32,False,1
+151688,2026-07-01,England,Congo DR,43942,20014,2,1,Round of 32,False,1
+151687,2026-07-02,USA,Bosnia and Herzegovina,43921,44037,2,0,Round of 32,False,2
+151690,2026-07-02,Spain,Austria,43969,43934,3,0,Round of 32,False,3
+151691,2026-07-02,Portugal,Croatia,43963,43938,2,1,Round of 32,False,1
+151689,2026-07-03,Switzerland,Algeria,43971,43843,2,0,Round of 32,False,2
+151692,2026-07-03,Australia,Egypt,43976,43855,1,1,Round of 32,True,0
+151694,2026-07-03,Argentina,Cabo Verde,43922,43850,3,2,Round of 32,False,1
+151693,2026-07-04,Colombia,Ghana,43926,43860,1,0,Round of 32,False,1
+151695,2026-07-04,Canada,Morocco,43899,43872,0,3,Round of 16,False,-3
+151696,2026-07-04,Paraguay,France,43928,43946,0,1,Round of 16,False,-1
+151698,2026-07-05,Brazil,Norway,43924,43961,1,2,Round of 16,False,-1
+151697,2026-07-06,Mexico,England,43911,43942,2,3,Round of 16,False,-1
+151700,2026-07-06,Portugal,Spain,43963,43969,0,1,Round of 16,False,-1
+151699,2026-07-07,USA,Belgium,43921,43935,1,4,Round of 16,False,-3
+151701,2026-07-07,Switzerland,Colombia,43971,43926,0,0,Round of 16,True,0
+151702,2026-07-07,Argentina,Egypt,43922,43855,3,2,Round of 16,False,1
+151703,2026-07-09,France,Morocco,43946,43872,2,0,Quarter-final,False,2
+151704,2026-07-10,Spain,Belgium,43969,43935,2,1,Quarter-final,False,1
+151706,2026-07-11,Norway,England,43961,43942,1,2,Quarter-final,False,-1
+151705,2026-07-12,Argentina,Switzerland,43922,43971,3,1,Quarter-final,False,2
+151707,2026-07-14,France,Spain,43946,43969,0,2,Semi-final,False,-2
+151708,2026-07-15,England,Argentina,43942,43922,1,2,Semi-final,False,-1
+151709,2026-07-18,France,England,43946,43942,4,6,Bronze final,False,-2
+151710,2026-07-19,Spain,Argentina,43969,43922,1,0,Final,False,1
