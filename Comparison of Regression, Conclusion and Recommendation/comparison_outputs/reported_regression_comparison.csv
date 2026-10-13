@@ -1,0 +1,3 @@
+Model,Target,Observations,Test_R2,CV_Mean_R2,CV_MAE,Test_MAE,Target_SD,CV_Fold_R2_SD,Worst_CV_Fold_R2,CV_MAE_Divided_By_Target_SD
+Regression 2.1,Goal difference,104,-0.086,0.133,1.422,,2.02,0.28,-0.2,0.7039603960396039
+Regression 2.2,Goals scored per team,208,0.234,0.133,0.96,0.99,1.39,0.21,-0.13,0.6906474820143885

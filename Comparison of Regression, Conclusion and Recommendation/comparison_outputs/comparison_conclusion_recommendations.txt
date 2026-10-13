@@ -1,0 +1,15 @@
+FIFA World Cup 2026 — Objective 2: Regression Comparison
+
+Regression 2.1: test R² = -0.086; mean CV R² = 0.133; CV MAE = 1.422.
+Regression 2.2: test R² = 0.234; mean CV R² = 0.133; CV MAE = 0.96.
+Normalized CV MAE: 0.70 vs 0.69.
+Fold R² standard deviation: 0.28 vs 0.21.
+
+Conclusion: Regression 2.2 is preferred on stability and reported test performance,
+although both models have the same rounded average CV R² and limited predictive power.
+
+Recommendations: replace a feature in 2.1 with ranking-points difference; use
+repeated and match-grouped validation; test Poisson regression for goal counts;
+add richer, verified pre-match data.
+
+Source: supplied HIT140 report text; figures above are reported, not recomputed.
